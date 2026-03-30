@@ -5,7 +5,7 @@ This repository contains a comprehensive **Demand Forecasting Engine** that util
 
 ---
 
-## ## Problem Solved
+## Problem Solved
 Forecasting demand is often complicated by overlapping patterns like weekly cycles, yearly temperature changes, and sudden event-driven spikes. This engine solves these challenges by:
 * **Modeling Multi-Layer Seasonality**: Captures weekly (shopping habits) and yearly (energy/seasonal) trends.
 * **Handling Holiday Volatility**: Specifically accounts for massive demand spikes during Black Friday and Christmas, as well as post-holiday lulls.
@@ -13,7 +13,7 @@ Forecasting demand is often complicated by overlapping patterns like weekly cycl
 
 ---
 
-## ## Technical Stack
+## Technical Stack
 * **Languages**: Python
 * **Forecasting Models**: 
     * **ARIMA (5,1,2)**: Statistical baseline for linear trends.
@@ -24,7 +24,7 @@ Forecasting demand is often complicated by overlapping patterns like weekly cycl
 
 ---
 
-## ## Key Features
+## Key Features
 ### 1. Synthetic Data Generation
 The engine simulates realistic datasets for two industries:
 * **Retail**: Features a linear upward trend ($800 \to 1200$ units), weekly seasonality (weekend peaks), and significant holiday-related volatility.
@@ -43,7 +43,7 @@ The system is configured to provide a **30-day forecast horizon**. It evaluates 
 
 ---
 
-## ## Getting Started
+## Getting Started
 1.  Open the `demand_forecasting_engine.ipynb` in Google Colab or a local Jupyter environment.
 2.  Install dependencies:
     ```bash
