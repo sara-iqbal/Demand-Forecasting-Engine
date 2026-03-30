@@ -53,5 +53,3 @@ The system is configured to provide a **30-day forecast horizon**. It evaluates 
 
 ---
 **Author:** Sara Iqbal | MSc Data Science
-
-**Would you like me to add a section on how to fine-tune the LSTM hyperparameters for better accuracy?**
